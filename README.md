@@ -75,3 +75,7 @@ The scenario assumes one usable pouch per saleable 500-gram pack and is a simpli
 The report cites APEDA's Annual Administrative Report 2024–25 for public context on India's cereal-preparation export category. The report notes export value of USD 842 million in FY 2023–24 and USD 934 million in FY 2024–25, with reported growth of 10.92%. This sector context is not a demand forecast for the fictional business.
 
 All company-specific demand, inventory, supplier-delay, capacity, KPI target, timeline, and dashboard examples are illustrative. They are not represented as live SAP output, completed production configuration, or executed integration tests. Any real implementation must confirm the SAP release, deployed components, integration technology, interfaces, master data, authorizations, and business controls.
+
+## Portfolio Data Alignment
+
+This assessment is part of a connected learning sequence, but retains its own scenario scope, assumptions, units, and reporting period. Figures should not be combined with another assessment unless the population, time window, units, KPI definitions, and scenario basis have first been reconciled. See the [Portfolio Data and Comparability Guide](https://github.com/hrudhaipremkumarpatwari/SAP-SCM-Internship-Portfolio/blob/main/PORTFOLIO_DATA_GUIDE.md) for the cross-project map and comparison checklist.
